@@ -1,0 +1,8 @@
+C:\Users\ışıl\source\repos\lib\lib\bin\Debug\lib.exe.config
+C:\Users\ışıl\source\repos\lib\lib\bin\Debug\lib.exe
+C:\Users\ışıl\source\repos\lib\lib\bin\Debug\lib.pdb
+C:\Users\ışıl\source\repos\lib\lib\obj\Debug\lib.csproj.AssemblyReference.cache
+C:\Users\ışıl\source\repos\lib\lib\obj\Debug\lib.csproj.SuggestedBindingRedirects.cache
+C:\Users\ışıl\source\repos\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\ışıl\source\repos\lib\lib\obj\Debug\lib.exe
+C:\Users\ışıl\source\repos\lib\lib\obj\Debug\lib.pdb
